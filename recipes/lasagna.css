@@ -1,0 +1,30 @@
+
+
+.recipe{
+    text-align: center;
+}
+
+.description{
+    width:600px;
+    height:100px;
+    margin-left: 360px;
+
+}
+h3{
+    text-align: center;
+}
+.img{
+    text-align: center;
+    margin-left: 550px;
+
+}
+.list1{
+    margin-left: 360px;
+}
+.list2{
+    margin-left: 360px;
+}
+.home {
+    text-align: center;
+    margin-left: 390px;
+}
